@@ -1,2 +1,3 @@
-# steganography-lsb-encoder
-Hide encrypted text messages inside PNG image Least Significant Bits (LSB).
+# Steganography LSB Encoder
+
+Lossless data concealment in 24-bit image byte arrays.
